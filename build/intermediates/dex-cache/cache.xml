@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/rockers/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/bolts-applinks-1.4.0_2d1d3baa49de25f498be3184b3b13762106f141e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/Bitbucket Android/Donation/donation/app/libs/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/glide-3.7.0_0df65d9b4bce62710d416872804a01ecf362bd25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/com.android.support-animated-vector-drawable-25.3.1_cb25115d4e0cb6d09781f771684694183a075451.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/exploded-aar/com.roughike/bottom-bar/1.4.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c4e65d46b09bd2156ad6fdf147d08b17c0fef75c">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/com.roughike-bottom-bar-1.4.0.1_21c6a285a4a9e8807f632d784788e121e8490a77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.7.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3248e86647b947af00d355e1f65da130aa07a20c">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/com.twitter.sdk.android-twitter-core-1.7.0_e2994fff3948cc311c0b2716142c3987d395cc45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d2ce88db16786c9c2a839f1839af47a9a96dad17">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/com.crashlytics.sdk.android-beta-1.2.1_3f109691b1555c768f640818c47858f1df5e4ccb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/com.android.support-recyclerview-v7-24.2.1_ca1bd79edee70801de73a0ee671dc1b3ebcdea88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/com.android.support-design-24.2.1_9be13e47df38e3a5c66273e22ee7a07339e21f83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/.gradle/caches/modules-2/files-2.1/com.twitter/twitter-text/1.13.0/78415b95ae3184c5926d593feab64bfc0b73b2dd/twitter-text-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/twitter-text-1.13.0_dfae105e6767a27a853c96be3d0f8e93fb62c299.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/gson-2.6.1_e898916872622865a17d97c0dae2841258c193eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/com.android.support-cardview-v7-25.3.1_3ae52cf4a8e6b579d6070d37d114d001be67786a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/retrofit-2.0.2_b9916dc3ce53ff9fa5070a7276ad8f6df94a2784.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/picasso-2.5.2_879937403e2bf0c54b8107d75c2fa74f84f200f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.11.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f1b135f6761a5b8d0b9bff42d1b81172a302b245">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/com.digits.sdk.android-digits-1.11.1_f88a78a08c1cd557701435cf4e0abed881218c76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.11.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="35d0ac5ea6d575fbf5b6b8be0562e8492f20ba29">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/com.twitter.sdk.android-tweet-ui-1.11.1_406414f684e3057fd9fa6666c3fff2e12f4fbc4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/bolts-tasks-1.4.0_b8fc72b1099b44a76887d067627d9cb1e775330c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/Bitbucket Android/Donation/donation/app/libs/httpmime-4.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="22b4c53dd9b6761024258de8f9240c3dce6ea368">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/httpmime-4.5.2_e49b42c951c25d3fc5a329d5805f07834ae4e11e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/com.android.support-support-media-compat-25.3.1_5a0828f86745588096cc2dd6e7dcf2b5324cd7c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/com.android.support-support-vector-drawable-25.3.1_d5ccfafa7998ec3ffdeb5b92e54dee5dec928dff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/com.android.support-support-core-utils-25.3.1_9b8837642004fa12ce0aa0b54ef7afc319e81a6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/com.android.support-appcompat-v7-25.3.1_d75a665ff17c460e22d354070c2539956ff6e603.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/com.android.support-support-fragment-25.3.1_626e5bf5b2ef0ae4d3a9675c4691ed929866fc1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/support-annotations-25.3.1_df1095c9780713231687500936440eb060f65681.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/Bitbucket Android/Donation/donation/app/libs/httpcore-4.4.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b31526a230871fbe285fbcbe2813f9c0839ae9b0">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/httpcore-4.4.4_b4a5f2026dcf3f536f8eacb6b07e44c359f35cc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers-shim/0.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="29864b68d990da5b14dbff9fbecf10600bcf7603">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/com.crashlytics.sdk.android-answers-shim-0.0.3_7581678a6f08d75fa1545b0761cb3fad5a20601e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.10/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2f9a9b21b70965cde70f6eb8f2ee68794fb482e6">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/com.crashlytics.sdk.android-crashlytics-core-2.3.10_bdad898112c64b8186e506ec3966e1a8ae1254e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/converter-gson-2.0.2_44338769bd669a12cf13f83347ceb07937274903.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/com.android.support-support-v4-25.3.1_f9e718fe7da8288408b6becb2df07b15aeff6988.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/com.android.support-support-compat-25.3.1_3fdba8c63617461dadcee36f5c8b51d93aaadeb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="99c0128e5e416cf65c7dc8465c1cb1d5fd7c4f92">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/com.crashlytics.sdk.android-crashlytics-2.6.1_48fe8cc0ebda830c19c8368d8980a6346f144aac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/okio-1.6.0_892d873025d7b144384614140732cfbf4404fc6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/Bitbucket Android/Donation/donation/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/YouTubeAndroidPlayerApi_382d869e130a0cb9de1bbc3c8883929495d24041.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c15baca2e57ebec0f42e5924e60f615451045388">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/com.twitter.sdk.android-tweet-composer-1.0.5_93a46e06feef5c857b0b3b342037e548c112525b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.3.8/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0c46a5a897439810b6c437ce188bd07d9d8dffb0">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/com.crashlytics.sdk.android-answers-1.3.8_49f99c088765ee98b71ed3ff435414a0862c4ff5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.23.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4504ae3ec47953f3d0c324dc66996aecfb7fbb5c">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/com.facebook.android-facebook-android-sdk-4.23.0_5b95d0eb1654d091e621c0b8b3a5a6b129ce30f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.8.0/a517f29ed06be2b2879524fcd94b6e9b36e2e0b5/retrofit-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a517f29ed06be2b2879524fcd94b6e9b36e2e0b5">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/retrofit-1.8.0_19b64122e4f155460cf5aac3f65f9b2cd7f8cf27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/com.android.volley-volley-1.0.0_35c20d09f337eb0225fa453ec5bc5da6faee8c12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/exploded-aar/com.android.support/customtabs/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/com.android.support-customtabs-25.3.1_9441e070f8308129179c331b0efa7f08a4663971.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/de.hdodenhof-circleimageview-2.1.0_49e8d21998baa218e20432790639d0bd246c58c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit-mock/1.8.0/8bc99a93998f08302e7615cca69ba8c97c6a6b2/retrofit-mock-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="08bc99a93998f08302e7615cca69ba8c97c6a6b2">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/retrofit-mock-1.8.0_cb7827b5055173712d6ef8b607258f8c819d9568.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.12/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3575e73a22dce98f0bdbcdb475ef55a84606a9a6">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/io.fabric.sdk.android-fabric-1.3.12_9d1ef6c2b3048dabf60818bb5e7ec54154452fcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/okhttp-3.2.0_0497c7ffedb3188b64e78ed5aa0103b0d490fa2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter/1.14.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f4b7e6b5b106eeef50a6cc6eac330f419a273c5d">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/com.twitter.sdk.android-twitter-1.14.1_a398d902d6d644002214c3a27f53422ab52aaa5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/rockers/Bitbucket Android/Donation/donation/app/build/intermediates/pre-dexed/donation/debug/com.android.support-support-core-ui-25.3.1_6d5c4e8d352f69480a02391fb7a1aed7e9fdeadb.jar" />
+    </item>
+
+</items>

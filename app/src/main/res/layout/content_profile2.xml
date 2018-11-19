@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.rock.qikso.activity.ProfileActivity"
+    tools:showIn="@layout/activity_profile2">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="@drawable/bb_bottom_bar_top_shadow"
+            android:padding="@dimen/value_10">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="rahul.rockersinfo@gmail.com"
+                android:id="@+id/user_email"
+                android:layout_gravity="center_horizontal"
+                android:textSize="@dimen/size_normal_text" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Valsad, Gujarat, India"
+                android:id="@+id/user_address"
+                android:layout_weight="1"
+                android:layout_gravity="center_horizontal"
+                android:textSize="@dimen/size_normal_text" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bb_bottom_bar_top_shadow"
+            android:weightSum="3"
+            android:padding="@dimen/value_10">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/facebook_link"
+                android:src="@drawable/ic_facebook_profile"
+                android:layout_weight="1" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/twitter_link"
+                android:src="@drawable/ic_twitter_profile"
+                android:layout_weight="1" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/linkedin_link"
+                android:src="@drawable/ic_linkedin_profile"
+                android:layout_weight="1" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="@dimen/value_10">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_gravity="center">
+
+
+
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:background="@color/cardview_shadow_start_color"
+                    android:padding="@dimen/value_10"
+                    android:layout_margin="@dimen/value_5">
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="10"
+                        android:id="@+id/project_count"
+                        android:layout_gravity="center"
+                        android:textSize="@dimen/size_normal_text"
+                        android:textColor="@color/project_detail_theme" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="No. of Projects"
+                        android:id="@+id/textView6"
+                        android:textSize="@dimen/size_normal_text"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_gravity="center"
+                    android:background="@color/cardview_shadow_start_color"
+                    android:padding="@dimen/value_10"
+                    android:layout_margin="@dimen/value_5">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="15"
+                        android:id="@+id/comments_count"
+                        android:layout_gravity="center"
+                        android:textSize="@dimen/size_normal_text"
+                        android:textColor="@color/project_detail_theme" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Comments"
+                        android:id="@+id/textView8"
+                        android:textSize="@dimen/size_normal_text"/>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:background="@color/cardview_shadow_start_color"
+                    android:padding="@dimen/value_10"
+                    android:layout_margin="@dimen/value_5">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="9"
+                        android:id="@+id/followers_count"
+                        android:layout_gravity="center"
+                        android:textSize="@dimen/size_normal_text"
+                        android:textColor="@color/project_detail_theme" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Followers"
+                        android:id="@+id/textView10"
+                        android:textSize="@dimen/size_normal_text"/>
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_gravity="center">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:background="@color/cardview_shadow_start_color"
+                    android:padding="@dimen/value_10"
+                    android:layout_margin="@dimen/value_5">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="2"
+                        android:id="@+id/followings_count"
+                        android:layout_gravity="center"
+                        android:textSize="@dimen/size_normal_text"
+                        android:textColor="@color/project_detail_theme" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Followings"
+                        android:id="@+id/textView12"
+                        android:textSize="@dimen/size_normal_text"/>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:background="@color/cardview_shadow_start_color"
+                    android:padding="@dimen/value_10"
+                    android:layout_margin="@dimen/value_5">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="1"
+                        android:id="@+id/donations_count"
+                        android:layout_gravity="center"
+                        android:textSize="@dimen/size_normal_text"
+                        android:textColor="@color/project_detail_theme" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Donations"
+                        android:id="@+id/textView14"
+                        android:textSize="@dimen/size_normal_text"/>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>

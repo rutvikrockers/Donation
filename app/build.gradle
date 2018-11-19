@@ -1,0 +1,83 @@
+buildscript {
+    repositories {
+        maven { url 'https://maven.fabric.io/public' }
+    }
+
+    dependencies {
+        classpath 'io.fabric.tools:gradle:1.+'
+    }
+}
+apply plugin: 'com.android.application'
+apply plugin: 'io.fabric'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion "24.0.1"
+
+    defaultConfig {
+        applicationId 'com.rock.qikso'
+        minSdkVersion 17
+        targetSdkVersion 24
+        versionCode 8
+        versionName "1.6"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    productFlavors {
+        donation {
+            applicationId = "com.rock.qikso"
+            resValue "string", "app_name", "Donation"
+        }
+        qikso {
+            applicationId 'com.rockers.qikso'
+            resValue "string", "app_name", "qikSo"
+        }
+    }
+    packagingOptions {
+        exclude 'META-INF/DEPENDENCIES.txt'
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/NOTICE'
+
+    }
+
+}
+repositories {
+    mavenCentral()
+    maven { url 'https://maven.fabric.io/public' }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    compile files('libs/httpcore-4.4.4.jar')
+    compile files('libs/httpmime-4.5.2.jar')
+    compile files('libs/glide-3.7.0.jar')
+    compile('com.twitter.sdk.android:twitter:1.14.1@aar') {
+        transitive = true;
+    }
+    compile('com.crashlytics.sdk.android:crashlytics:2.6.1@aar') {
+        transitive = true;
+    }
+    compile fileTree(include: ['linkedin-sdk'], dir: 'libs')
+    compile files('libs/YouTubeAndroidPlayerApi.jar')
+    //    compile project(':linkedin-sdk')
+    compile 'com.android.support:appcompat-v7:24.2.1'
+    compile 'com.roughike:bottom-bar:1.4.0.1'
+    compile 'com.squareup.retrofit2:converter-gson:2.0.2'
+    compile 'com.android.support:support-v4:24.2.1'
+    compile 'com.android.support:recyclerview-v7:24.2.1'
+    compile 'com.android.support:cardview-v7:24.2.1'
+    compile 'com.android.volley:volley:1.0.0'
+    compile 'com.google.code.gson:gson:2.4'
+    compile 'com.facebook.android:facebook-android-sdk:4.+'
+    compile 'de.hdodenhof:circleimageview:2.1.0'
+    compile 'com.android.support:design:24.2.1'
+}
+
+
+

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.rock.qikso">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/name_app"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+
+        <activity android:name="com.rock.qikso.activity.HomeActivity" />
+        <activity android:name="com.rock.qikso.activity.ForgotPasswordActivity" />
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            tools:replace="android:theme"/>
+
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="40fbc15d5c50a40159921dd7a3facab013eaf7bc" />
+
+        <activity android:name="com.rock.qikso.activity.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.rock.qikso.activity.ProjectDetailActivity" />
+        <activity
+            android:name="com.rock.qikso.activity.CommentActivity"
+            android:label="@string/title_activity_comment"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.rock.qikso.activity.UpdateActivity"
+            android:label="@string/title_activity_update"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.rock.qikso.activity.ProfileActivity"
+            android:label="@string/title_activity_profile"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.rock.qikso.activity.FunderActivity"
+            android:label="@string/title_activity_funder"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.rock.qikso.activity.FollowerActivity"
+            android:label="@string/title_activity_follower"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.rock.qikso.activity.TeamMemberActivity"
+            android:label="@string/title_activity_team_member"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.rock.qikso.activity.DonationDetailActivity"
+            android:label="@string/title_activity_donation_detail"
+            android:theme="@style/AppTheme" />
+        <activity android:name="com.rock.qikso.activity.ReadStory" />
+        <activity
+            android:name="com.rock.qikso.TabActivity"
+            android:label="@string/title_activity_tab"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.rock.qikso.TabActivityAction"
+            android:label=""
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.rock.qikso.activity.ProjectDashboardActivity"
+            android:label="@string/title_activity_project_dashboard"
+            android:theme="@style/AppTheme" />
+
+        <activity android:name="com.rock.qikso.activity.TempActivity"></activity>
+    </application>
+</manifest>
